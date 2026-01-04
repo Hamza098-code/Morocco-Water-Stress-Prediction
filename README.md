@@ -33,5 +33,5 @@ I am currently pursuing a **Master's degree in Mathematics and Digital Engineeri
 
 ### 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hamza098-code&show_icons=true&theme=tokyonight" alt="Hamza's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hamza098-code &show_icons=true&theme=tokyonight" alt="Hamza's Stats" />
 </p>
