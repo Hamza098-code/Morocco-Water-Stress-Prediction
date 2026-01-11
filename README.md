@@ -1,37 +1,32 @@
-# Hello there! I'm Hamza 👋
+# 🌊 Morocco Water Stress Prediction using Machine Learning
 
-### 👨‍🎓 Academic Background
-I am currently pursuing a **Master's degree in Mathematics and Digital Engineering** (Mathématiques et Ingénierie Numérique) at **Mohammed V University in Rabat**. My focus is on bridging the gap between complex mathematical theories and efficient digital solutions.
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Completed-success)]()
 
-- 🔭 I’m currently working on **Numerical Analysis and Scientific Computing**
-- 🌱 I’m currently learning **Reinforcement Learning & Cloud Computing**
-- 🧠 My core interests: **Applied Math, Data Science, and Algorithm Design**
-- 👯 I’m looking to collaborate on **Math-heavy Python projects**
-- 📫 Reach me at: **hamzabou076@gmail.com**
+## 📌 Project Overview
+Morocco is currently facing one of its most severe droughts in decades. This project utilizes **Machine Learning (Random Forest Regressor)** to analyze historical climate data (rainfall, temperature) and predict future water stress levels in major dams.
+
+The goal is to provide a data-driven tool for decision-makers to anticipate water scarcity scenarios.
+
+## 🚀 Key Features
+- **Data Analysis:** Processing 20+ years of climate and dam filling rate data.
+- **Modeling:** Implementation of `RandomForestRegressor` for high-accuracy predictions.
+- **Interactive Simulation:** A script to simulate future scenarios (e.g., "What if rainfall drops by 20%?").
+- **Visualization:** Time-series analysis using `Matplotlib` and `Seaborn`.
+
+## 📂 Repository Structure
+- `Morocco_Water_Stress_Prediction.ipynb`: **(Main File)** The complete analysis and code in English.
+- `Stress_Hydrique_au_Maroc.ipynb`: The French version of the analysis.
+- `data/`: Contains the datasets used (if applicable).
+
+## 🛠️ Technologies Used
+- **Python** (NumPy, Pandas)
+- **Scikit-Learn** (Random Forest, Model Evaluation)
+- **Matplotlib/Seaborn** (Data Visualization)
+
+## 📊 Results
+The model successfully predicts the dam filling rates with a low Mean Absolute Error (MAE), demonstrating a strong correlation between rolling rainfall averages and water storage levels.
 
 ---
-
-### 🛠️ Tech Stack & Tools
-**Scientific Computing & Data:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-**Tools & Environment:**
-<p align="left">
-  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hamza098-code &show_icons=true&theme=tokyonight" alt="Hamza's Stats" />
-</p>
+*Author: Hamza [Your Last Name] - Master in Mathematical & Digital Engineering*
