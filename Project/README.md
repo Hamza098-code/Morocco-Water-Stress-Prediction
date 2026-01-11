@@ -17,7 +17,7 @@ The goal is to provide a data-driven tool for decision-makers to anticipate wate
 
 ## 📂 Repository Structure
 - `Morocco_Water_Stress_Prediction.ipynb`: **(Main File)** The complete analysis and code in English.
-- `Fr-version/Stress_Hydrique_au_Maroc.ipynb`: The French version of the analysis.
+- `Fr-Version/Stress_Hydrique_au_Maroc.ipynb`: The French version of the analysis.
 
 ## 🛠️ Technologies Used
 - **Python** (NumPy, Pandas)
