@@ -1,4 +1,4 @@
-# 🌊 Morocco Water Stress Prediction using Machine Learning
+# 🌊 Morocco Water Stress Prediction using Machine Learning 
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
