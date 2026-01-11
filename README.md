@@ -29,4 +29,4 @@ The goal is to provide a data-driven tool for decision-makers to anticipate wate
 The model successfully predicts the dam filling rates with a low Mean Absolute Error (MAE), demonstrating a strong correlation between rolling rainfall averages and water storage levels.
 
 ---
-*Author: Hamza [Your Last Name] - Master in Mathematical & Digital Engineering*
+*Author: LBOUKHARI Hamza - Master in Mathematical & Digital Engineering*
